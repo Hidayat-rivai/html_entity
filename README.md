@@ -1,1 +1,2 @@
-# html_entity
+# Entity
+Spesial Character that will be translated to another character
